@@ -1,4 +1,4 @@
-# Netflix_analysis
+# Netflix_analysis | Excel → SQL → Power BI
 [![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi&logoColor=yellow)](https://app.powerbi.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=green)](https://www.microsoft.com/excel)
