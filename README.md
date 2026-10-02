@@ -65,7 +65,7 @@
 *   Эволюция стратегии — начиная с 2015 года Netflix стабильно увеличивал долю не самого свежего контента в каталоге.
 *   Доля взрослого контента почти удвоилась за десятилетие, прежде чем немного снизиться в 2021 году.
 
-<img src=https://github.com/lilvillain404/Netflix_analysis/blob/main/powerbi/netflix_deep_dive.png width="1000">
+<img src=https://github.com/lilvillain404/Netflix_analysis/blob/main/powerbi/netflix_deep_dive.png width="800">
 
 
 ## 📈 Дополнительные инсайты
